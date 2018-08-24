@@ -1,0 +1,34 @@
+{
+  "name": "brian_m_dumoulin",
+  "version": "1.0.0",
+  "description": "Personal Website & Portfolio",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bmdumoulin10/brian_m_dumoulin.git"
+  },
+  "keywords": [
+    "portfolio",
+    "dumoulin",
+    "developer",
+    "javascript",
+    "appdev",
+    "coding",
+    "programmer",
+    "designer",
+    "engineer"
+  ],
+  "author": "Brian M Dumoulin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bmdumoulin10/brian_m_dumoulin/issues"
+  },
+  "homepage": "https://github.com/bmdumoulin10/brian_m_dumoulin#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
